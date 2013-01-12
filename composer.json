@@ -1,5 +1,12 @@
 {
     "require": {
-        "php": ">=5.3"
-    }
+        "php": ">=5.3",
+        "acirtautas/demo-composer-pkg": "*@dev"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://github.com/acirtautas/demo-composer-pkg"
+        }
+    ]
 }
