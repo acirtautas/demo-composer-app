@@ -1,7 +1,7 @@
 {
     "require": {
         "php": ">=5.3",
-        "acirtautas/demo-composer-pkg": "*@dev"
+        "acirtautas/demo-composer-pkg": "1.0.0"
     },
     "repositories": [
         {
